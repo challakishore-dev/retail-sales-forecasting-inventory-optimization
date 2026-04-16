@@ -110,20 +110,11 @@ Retail-Sales-Forecasting/
 
 ## Installation
 
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/retail-sales-forecasting-inventory-optimization.git
-cd retail-sales-forecasting-inventory-optimization
-```
-
 ### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-
----
 
 ## Run Project
 
@@ -143,15 +134,16 @@ streamlit run app/dashboard.py
 
 ## Dashboard Preview
 
-Add your screenshots inside `/images`
+Add your screenshots inside 
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/498a512a-feb4-427f-836c-e42d1c01b45e" />
+## Dashboard
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/38d49486-6c8c-428a-9470-93e6ad6dce3c" />
+## Sales Trend
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/ecdc05d3-c2ba-4d0e-913b-55948d37d6fa" />
+## Monthly sales
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/f79794cc-75db-4b39-bfda-bad4a2319da4" />
 
-```markdown
-![Dashboard](images/dashboard-home.png)
-![Sales Trend](images/sales-trend.png)
-![Inventory Recommendation](images/inventory-table.png)
-```
-
----
+## Inventory Recommendation
 
 ## Output Generated
 
@@ -221,11 +213,6 @@ Built a production-ready retail forecasting system using Machine Learning and St
 Challa Kishore 
 Aspiring Data Analyst / Data Scientist
 
-LinkedIn: Add your link
-GitHub: Add your link
-
----
-
 ## Recruiter Notes
 
 This project demonstrates:
@@ -236,8 +223,6 @@ This project demonstrates:
 * Python development
 * Dashboarding
 * Real-world problem solving
-
----
 
 ## License
 
