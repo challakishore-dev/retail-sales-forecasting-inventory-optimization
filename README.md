@@ -134,7 +134,6 @@ streamlit run app/dashboard.py
 
 ## Dashboard Preview
 
-Add your screenshots inside 
 <img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/498a512a-feb4-427f-836c-e42d1c01b45e" />
 ## Dashboard
 <img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/38d49486-6c8c-428a-9470-93e6ad6dce3c" />
@@ -142,7 +141,6 @@ Add your screenshots inside
 <img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/ecdc05d3-c2ba-4d0e-913b-55948d37d6fa" />
 ## Monthly sales
 <img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/f79794cc-75db-4b39-bfda-bad4a2319da4" />
-
 ## Inventory Recommendation
 
 ## Output Generated
